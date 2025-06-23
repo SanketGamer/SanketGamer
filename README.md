@@ -1,9 +1,9 @@
 <h1>Hi 😄,  i'm Sanket Das</h1>
-<hr/>
-
-  <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+ <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <h3>A passionate Software Engineer</h3>
 </div>
+
+<hr/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
