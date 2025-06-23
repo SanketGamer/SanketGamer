@@ -1,6 +1,10 @@
 <h1>Hi 😄,  i'm Sanket Das</h1>
 <hr/>
-<h3>Software Engineer</h3>
+
+  <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <h3>A passionate Software Engineer</h3>
+</div>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
   <img width="12" />
